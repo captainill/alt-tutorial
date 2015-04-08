@@ -2,9 +2,9 @@
 
 ## Getting Started
 
+- Based completely on https://github.com/goatslacker/alt-tutorial.git
+
 ```bash
-git clone https://github.com/goatslacker/alt-tutorial.git
-cd alt-tutorial
 npm install
 npm run build
 open index.html
